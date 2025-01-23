@@ -1,5 +1,5 @@
 console.log("Unsplash?");
-const ACCESS_KEY = "kgpO30Jwnuhoc-PyhtnUBDO6_fvJHO7nQx-R7Fm1wCY"; // access key från unsplash här
+const ACCESS_KEY = ""; // access key från unsplash här
 
 // DOM-referenser
 const formEl = document.getElementById("search-form");
